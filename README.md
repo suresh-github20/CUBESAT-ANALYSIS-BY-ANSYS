@@ -1,6 +1,6 @@
 # CUBESAT-ANALYSIS-BY-ANSYS
 
-Title: Structural Analysis of CubeSat Satellite Frame Using ANSYS Workbench
+Title: Structural, Modal , Buckling Analysis of CubeSat Satellite Frame Using ANSYS Workbench
 
 Objective:
 
